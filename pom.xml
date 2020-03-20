@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.kalessine</groupId>
     <artifactId>sdmx-sdmx20-xmlbeans</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <build>
         <plugins>
             <plugin>
@@ -135,6 +135,6 @@
         <connection>scm:git:ssh://github.com/kalessine/sdmx-sdmx20-xmlbeans.git</connection>
         <developerConnection>scm:git:ssh://github.com/kalessine/sdmx-sdmx20-xmlbeans.git</developerConnection>
         <url>https://github.com/kalessine/sdmx-sdmx20-xmlbeans/tree/master</url>
-        <tag>master</tag>
+        <tag>sdmx-sdmx20-xmlbeans-0.0.2</tag>
     </scm>
 </project>
