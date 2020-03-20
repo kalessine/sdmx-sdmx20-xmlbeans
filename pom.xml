@@ -132,8 +132,8 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:ssh://github.com/kalessine/sdmx-sdmx20-xmlbeans.git</connection>
-        <developerConnection>scm:git:ssh://github.com/kalessine/sdmx-sdmx20-xmlbeans.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/kalessine/sdmx-sdmx20-xmlbeans.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/kalessine/sdmx-sdmx20-xmlbeans.git</developerConnection>
         <url>https://github.com/kalessine/sdmx-sdmx20-xmlbeans/tree/master</url>
         <tag>sdmx-sdmx20-xmlbeans-0.0.2</tag>
     </scm>
